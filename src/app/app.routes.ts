@@ -31,7 +31,7 @@ export const routes: Routes = [
     redirectTo: () => {
       // const authService = inject(AuthService)
 
-      return 'pokemons';
+      return 'about';
     },
   },
 ];
