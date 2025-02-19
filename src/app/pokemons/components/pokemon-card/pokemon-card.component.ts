@@ -1,5 +1,5 @@
 import { ChangeDetectionStrategy, Component, computed, effect, input } from '@angular/core';
-import { SimplePokemon } from '../interfaces';
+import { SimplePokemon } from '../../interfaces';
 import { RouterLink } from '@angular/router';
 
 @Component({
